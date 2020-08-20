@@ -1,68 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
 
-## Available Scripts
+Código de Honor
+------
+Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
 
-In the project directory, you can run:
+- Tus respuestas a tareas, cuestionarios y exámenes deben ser tu propio trabajo (excepto para las tareas que permiten explícitamente la colaboración).
 
-### `npm start`
+- No puedes compartir tus soluciones de tareas, cuestionarios o exámenes con otra persona a menos que el instructor lo permita explícitamente. Esto incluye cualquier cosa escrita por ti, como también cualquier solución oficial proporcionada por el docente o el monitor del curso.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Desarrollo
+-----------
 
-### `npm test`
+## Part 1: Create a basic React application and understand React basics
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Una vez creada la aplicación React App se realiza la modificación en el archivo index.html y al correr la aplicación nos dirigirá a la página de inicio, como se muestra a continuación:
 
-### `npm run build`
+![Captura3](https://user-images.githubusercontent.com/48154086/90710174-6efdfc00-e263-11ea-9544-eaa96d3dfe78.PNG)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- En CodeAcademy se realizaron los módulos propuestos, completando el 100% 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![Captura](https://user-images.githubusercontent.com/48154086/90710227-8b9a3400-e263-11ea-8fbf-3bd1c6e37625.PNG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Part 2: Create React Components for the TODO App
 
-### `npm run eject`
+![Captura2](https://user-images.githubusercontent.com/48154086/90710324-c3a17700-e263-11ea-88d6-c1e9c7cd1bc0.PNG)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Part 3: Interacting with React Components
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![Captura4](https://user-images.githubusercontent.com/48154086/90710433-04998b80-e264-11ea-99fa-5e0a93e671ad.PNG)
